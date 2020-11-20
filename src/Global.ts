@@ -1,0 +1,4 @@
+export const Global = {
+    urlSeries: "https://apiseriespersonajes.azurewebsites.net"
+}
+
